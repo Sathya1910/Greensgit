@@ -14,5 +14,16 @@ public class GitClass2 {
 		System.out.println("3");
 
 	}
-	
+	private void triplicane() {
+	System.out.println("triplicane");
+
+	}
+	private void chepauk() {
+	System.out.println("chepauk");
+
+	}
+	private void mylapore() {
+	System.out.println("mylapore");
+
+	}
 }
