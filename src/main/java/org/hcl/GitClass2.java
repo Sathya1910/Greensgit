@@ -15,4 +15,16 @@ public class GitClass2 {
 
 	}
 	
+	private void chennai() {
+	System.out.println("chennai");
+
+	}
+	private void neyveli() {
+	System.out.println("neyveli");
+
+	}
+	private void vandalur() {
+	System.out.println("vandalur");
+
+	}
 }
